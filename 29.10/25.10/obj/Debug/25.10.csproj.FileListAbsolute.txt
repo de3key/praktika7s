@@ -1,0 +1,20 @@
+C:\Users\1\source\repos\25.10\25.10\bin\Debug\25.10.exe.config
+C:\Users\1\source\repos\25.10\25.10\bin\Debug\25.10.exe
+C:\Users\1\source\repos\25.10\25.10\bin\Debug\25.10.pdb
+C:\Users\1\source\repos\25.10\25.10\obj\Debug\25.10.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\25.10\25.10\obj\Debug\_25._10.Form1.resources
+C:\Users\1\source\repos\25.10\25.10\obj\Debug\_25._10.Properties.Resources.resources
+C:\Users\1\source\repos\25.10\25.10\obj\Debug\25.10.csproj.GenerateResource.cache
+C:\Users\1\source\repos\25.10\25.10\obj\Debug\25.10.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\25.10\25.10\obj\Debug\25.10.exe
+C:\Users\1\source\repos\25.10\25.10\obj\Debug\25.10.pdb
+C:\Users\gnost\OneDrive\Рабочий стол\25.10\25.10\bin\Debug\25.10.exe.config
+C:\Users\gnost\OneDrive\Рабочий стол\25.10\25.10\bin\Debug\25.10.exe
+C:\Users\gnost\OneDrive\Рабочий стол\25.10\25.10\bin\Debug\25.10.pdb
+C:\Users\gnost\OneDrive\Рабочий стол\25.10\25.10\obj\Debug\25.10.csproj.AssemblyReference.cache
+C:\Users\gnost\OneDrive\Рабочий стол\25.10\25.10\obj\Debug\_25._10.Form1.resources
+C:\Users\gnost\OneDrive\Рабочий стол\25.10\25.10\obj\Debug\_25._10.Properties.Resources.resources
+C:\Users\gnost\OneDrive\Рабочий стол\25.10\25.10\obj\Debug\25.10.csproj.GenerateResource.cache
+C:\Users\gnost\OneDrive\Рабочий стол\25.10\25.10\obj\Debug\25.10.csproj.CoreCompileInputs.cache
+C:\Users\gnost\OneDrive\Рабочий стол\25.10\25.10\obj\Debug\25.10.exe
+C:\Users\gnost\OneDrive\Рабочий стол\25.10\25.10\obj\Debug\25.10.pdb
